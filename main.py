@@ -1,5 +1,5 @@
 def main(msg):
-	//Print a message
+	//Print a message again
     print(msg)
 
 main ("Hello People")
