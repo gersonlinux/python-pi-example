@@ -1,9 +1,12 @@
 
 def main(msg):
  
-        // Adding the second comment to this fileTESTING
-        // Print a message
+        // No longer need comments here
+        
 
    	    print(msg)
 
+def secondary():
+	print("New Function")
+	
 main ("Hello People")
